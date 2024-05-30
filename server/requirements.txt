@@ -1,0 +1,12 @@
+Flask
+Gunicorn
+flask_cors
+nltk
+pyvi
+demoji
+joblib
+scikit-learn
+pandas
+gensim
+numpy
+tensorflow
