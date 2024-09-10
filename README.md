@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- Đây là dự án nhóm dùng bộ dữ liệu được **crawl** trực tiếp từ sàn thương mại điện **Tiki** ở danh mục [Nhà sách tiki](https://tiki.vn/nha-sach-tiki/c8322).
+- Đây là dự án dùng bộ dữ liệu được **crawl** trực tiếp từ sàn thương mại điện **Tiki** ở danh mục [Nhà sách tiki](https://tiki.vn/nha-sach-tiki/c8322).
 - Dự án được áp dụng nhiều loại mô hình học máy phổ biển để dự đoán cảm xúc của các review như **Naive Bayes**, **Maxent**, **ANN**.
 
 ## Directory structure
@@ -49,6 +49,6 @@
 
 ## Conclusion
 
-- Sau khi phân tích, đánh giá và chạy thử kết quả từ mô hình thì nhóm nhận thấy kết quả tương đối chính xác với nhưng gì dữ liệu được huấn luyện, vì bộ dự liệu hầu hết là các review tích cực nên kết quả dự đoán thiên hướng về positive. Tuy nhiên để cải thiện điều này chỉ cần cho mô hình học bộ dữ liệu đa dạng hơn.
+- Sau khi phân tích, đánh giá và chạy thử kết quả từ mô hình thì nhận thấy kết quả tương đối chính xác với nhưng gì dữ liệu được huấn luyện, vì bộ dự liệu hầu hết là các review tích cực nên kết quả dự đoán thiên hướng về positive. Tuy nhiên để cải thiện điều này chỉ cần cho mô hình học bộ dữ liệu đa dạng hơn.
 
-- Mặc dù cố gắng hết sức để đem lại kết quả dự đoán tốt nhất cũng như về UI UX nhưng không thể tránh khỏi những sai sót. Nhóm mình rất mong được sự góp ý từ thầy và các bạn.
+- Mặc dù cố gắng hết sức để đem lại kết quả dự đoán tốt nhất cũng như về UI UX nhưng không thể tránh khỏi những sai sót.
